@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Aug 25 16:59:34 BDT 2019
+1.base=D\:\\Android\\BITM_Batch-48\\others\\MapDirectionDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Android\\BITM_Batch-48\\others\\MapDirectionDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=classes.dex
